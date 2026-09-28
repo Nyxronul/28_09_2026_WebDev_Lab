@@ -1,0 +1,33 @@
+
+      body {
+        font-family: Arial, sans-serif;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        color: #660000;
+        font-family: "Times New Roman", Times, serif;
+        font-size: 45px;
+      }
+      a:hover {
+        color: #ff00ff;
+      }
+      a:active {
+        color: #00ff00;
+      }
+      a:visited {
+        color: #00ff00;
+      }
+        .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+.quals{
+    border-collapse: collapse;
+}
+.quals th{
+    border-bottom:3px solid #ccc;
+    padding:5px;
+}
+.quals td{
+    border-bottom:1px solid #ccc;
+    padding:5px;
+}
